@@ -1,0 +1,2 @@
+//botão curtidas 
+document.addEventListener
