@@ -46,7 +46,11 @@ return num.toString();
 //deixar a curtida bonitinha
 
 function addLike(){
-    baseLikes
+    baseLikes++;
+    isLiked = true; 
+    likeBtn.classList.add("liked");
+
+    
 }
  
 
