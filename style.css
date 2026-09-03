@@ -100,7 +100,7 @@ object-fit: cover;
 position: absolute;
 bottom: -2px;
 right: -2px;
-background: #dec5f8;
+background: #faa1a1;
 color: rgb(243, 208, 208);
 font-size: 10px;
 font-weight: bold;
@@ -110,7 +110,7 @@ border-radius: 50%;
 display: flex;
 align-items: center;
 justify-content: center;
-border: 2px solid #87c0ee;
+border: 2px solid #f2f4f5;
 }
 
 /* Ações (Curtir, Comentar, Repostar, Direct, Salvar) */
@@ -133,7 +133,7 @@ align-items: center;
 gap: 5px;
 font-size: 13px;
 font-weight: 600;
-color: #0a0a0a;
+color: #f6c8ff;
 cursor: pointer;
 background: none;
 border: none;
@@ -170,8 +170,8 @@ display: flex;
 justify-content: space-around;
 align-items: center;
 padding: 12px 0 16px 0;
-border-top: 1px solid #f0e294;
-background: #f3d5d5;
+border-top: 1px solid #f7f3df;
+background: #fcd2d2;
 }
 
 .nav-item {
