@@ -50,7 +50,9 @@ function addLike(){
     isLiked = true; 
     likeBtn.classList.add("liked");
 
-    
+    if(likesCountSpan){
+        likesCountSpan.textContent = formatLikes(baseLikes);
+    }
 }
  
 
